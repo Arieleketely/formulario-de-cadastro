@@ -1,0 +1,39 @@
+img{
+    margin:-1%;
+}
+
+.login{
+position: absolute;
+
+right:15%;
+top:10%;
+font-size:30px;
+}
+ul li{
+    list-style-type: none;
+}
+input{
+    border-radius: 30px;
+  
+}
+select{
+    border-radius: 30px;
+
+}
+button{
+    border-radius: 30px;
+
+}
+.tamanho{
+    height:25px;
+ width:190px;
+text-align: center;
+}
+
+.tamanhoBotao{
+    height:40px;
+ width:180px;
+text-align: center;
+background-color: blue;
+color:white;
+}
